@@ -12,7 +12,7 @@
 Bem-vindo(a) ao meu cantinho de estudos!  
 Aqui estão reunidos todos os exercícios que estou fazendo durante minha jornada na **Generation Brasil** 🚀
 
-Com muito carinho e dedicação, estou aprendendo os primeiros passos no mundo da programação e deixando tudo salvo aqui para acompanhar minha evolução 🌷✨
+Com muita dedicação e entusiasmo, sigo dando continuidade à minha jornada em programação, aprimorando cada vez mais minhas habilidades em lógica, estrutura de código e boas práticas com JavaScript 🌷✨
 
 ---
 
